@@ -18,17 +18,16 @@ function App() {
     <div> 
       
       {
-        randNumber == 1 && ( <Redtheme /> )
-        
+        randNumber === 1 && ( <Redtheme /> )        
       }
       {
-        randNumber == 2 && ( <Bluetheme /> )
+        randNumber === 2 && ( <Bluetheme /> )
       }
       {
-        randNumber == 3 && ( <Greentheme /> )
+        randNumber === 3 && ( <Greentheme /> )
       }
       {
-        randNumber == 4 && ( <Charcoaltheme /> )
+        randNumber === 4 && ( <Charcoaltheme /> )
       }
     </div>
 
