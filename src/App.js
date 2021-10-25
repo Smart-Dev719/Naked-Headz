@@ -3,7 +3,7 @@ import Redtheme from "./pages/Redtheme";
 import Greentheme from "./pages/Greentheme";
 import Charcoaltheme from "./pages/Charcoaltheme";
 import Bluetheme from "./pages/Bluetheme";
-import Navbar  from './pages/navbar';
+// import Navbar  from './pages/navbar';
 
 
 function App() {
